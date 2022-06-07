@@ -8,8 +8,8 @@ on:
     - 'ga-ignore-'
 
 env:
-   EXECUTABLES: "mysh"
-   MIRROR_URL: MY_REPO_URL
+   EXECUTABLES: "test"
+   MIRROR_URL: git@github.com:EpitechPromo2026/B-CPE-110-PAR-1-1-bsantman-shayan.galland.git
 
 jobs:
   check_repository_cleanliness:
