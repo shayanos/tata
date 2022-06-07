@@ -9,7 +9,7 @@ on:
 
 env:
    EXECUTABLES: "test"
-   MIRROR_URL: git@github.com:EpitechPromo2026/B-CPE-110-PAR-1-1-bsantman-shayan.galland.git
+   MIRROR_URL: "git@github.com:EpitechPromo2026/B-CPE-110-PAR-1-1-bsantman-shayan.galland.git"
 
 jobs:
   check_repository_cleanliness:
